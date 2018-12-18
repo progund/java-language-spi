@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Foo
+Class-Path: ./org.json.jar
+  
